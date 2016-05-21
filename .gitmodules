@@ -1,0 +1,6 @@
+[submodule "lib/pkl"]
+	path = lib/pkl
+	url = https://github.com/esden/pretty-kicad-libs.git
+[submodule "lib/stm32"]
+	path = lib/stm32
+	url = https://github.com/esden/stm32-kicad-lib.git
