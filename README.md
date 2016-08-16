@@ -6,6 +6,6 @@ This project includes 1BitSy evaluation boards. These boards are breadboard frie
 
 Currently we have the following eval boards:
 
-* 1BitSy V1.0a -> STM32F415RGT6
+* 1BitSy V1.0b -> STM32F4x5RGT6
 
-![1BitSy V1.0a legend](/doc/1bitsy_v1_0_legend.png)
+![1BitSy V1.0b legend](/doc/1bitsy_v1_0b_legend.png)
