@@ -10,3 +10,4 @@ Currently we have the following eval boards:
 
 ![1BitSy V1.0b legend](/doc/1bitsy_v1_0b_legend.png)
 ![1BitSy V1.0b legend2](/doc/1bitsy_v1_0b_legend2.png)
+![1BitSy V1.0b legend back](/doc/1bitsy_v1_0b_legend_back.png)
