@@ -405,14 +405,12 @@ Text Label 13750 6050 0    60   ~ 0
 PB14
 Text Label 13750 6150 0    60   ~ 0
 PB15
-Text Label 13750 6350 0    60   ~ 0
+Text Label 2150 6450 2    60   ~ 0
 BUTTON
 Text Label 2150 7650 2    60   ~ 0
 PC13
 Text Label 2150 6350 2    60   ~ 0
 PC0
-Text Label 2150 6450 2    60   ~ 0
-PC1
 Text Label 2150 6550 2    60   ~ 0
 PC2
 Text Label 2150 6750 2    60   ~ 0
@@ -925,7 +923,7 @@ Wire Wire Line
 Wire Wire Line
 	13450 6150 14050 6150
 Wire Wire Line
-	13450 6350 13750 6350
+	13450 6350 14050 6350
 Wire Wire Line
 	1850 6350 2450 6350
 Wire Wire Line
@@ -933,7 +931,7 @@ Wire Wire Line
 Wire Wire Line
 	2050 7650 2450 7650
 Wire Wire Line
-	1850 6450 2450 6450
+	2150 6450 2450 6450
 Wire Wire Line
 	1850 6550 2450 6550
 Wire Wire Line
@@ -1185,7 +1183,7 @@ Connection ~ 1900 1150
 Wire Wire Line
 	2600 1350 2700 1350
 Wire Wire Line
-	2700 1350 2700 1650
+	2700 1650 2700 1350
 Wire Wire Line
 	1500 1650 2900 1650
 Wire Wire Line
@@ -1656,18 +1654,6 @@ F 4 "ANY" H 1650 6350 60  0001 C CNN "Source"
 	-1   0    0    1   
 $EndComp
 $Comp
-L CONN_01X01 P11
-U 1 1 5747790E
-P 1650 6450
-F 0 "P11" H 1700 6450 50  0000 L CNN
-F 1 "CONN_01X01" V 1750 6450 50  0001 C CNN
-F 2 "pkl_pin_headers:Pin_Header_Straight_Round_1x01" H 1650 6450 50  0001 C CNN
-F 3 "" H 1650 6450 50  0000 C CNN
-F 4 "ANY" H 1650 6450 60  0001 C CNN "Source"
-	1    1650 6450
-	-1   0    0    1   
-$EndComp
-$Comp
 L CONN_01X01 P12
 U 1 1 574779D7
 P 1650 6550
@@ -1893,9 +1879,9 @@ F 4 "ANY" H 800 1250 60  0001 C CNN "Source"
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	1000 1250 1100 1250
+	1100 1250 1000 1250
 Wire Wire Line
-	1100 1250 1100 1050
+	1100 1050 1100 1250
 $Comp
 L +3V3 #PWR2
 U 1 1 5751C607
@@ -2077,4 +2063,18 @@ $EndComp
 Wire Wire Line
 	1000 1150 1100 1150
 Connection ~ 1100 1150
+$Comp
+L CONN_01X01 P11
+U 1 1 57B9A64E
+P 14250 6350
+F 0 "P11" H 14300 6350 50  0000 L CNN
+F 1 "CONN_01X01" V 14350 6350 50  0001 C CNN
+F 2 "pkl_pin_headers:Pin_Header_Straight_Round_1x01" H 14250 6350 50  0001 C CNN
+F 3 "" H 14250 6350 50  0000 C CNN
+F 4 "ANY" H 14250 6350 60  0001 C CNN "Source"
+	1    14250 6350
+	1    0    0    -1  
+$EndComp
+Text Label 13750 6350 0    60   ~ 0
+PD2
 $EndSCHEMATC
