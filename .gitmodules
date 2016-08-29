@@ -4,3 +4,6 @@
 [submodule "lib/stm32"]
 	path = lib/stm32
 	url = https://github.com/esden/stm32-kicad-lib.git
+[submodule "lib/1bitsy-hardware-lib"]
+	path = lib/1bitsy-hardware-lib
+	url = https://github.com/1bitsy/1bitsy-hardware-lib.git
