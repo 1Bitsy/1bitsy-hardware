@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.3+e1-6302~38~ubuntu16.04.1-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.4+e1-6308~48~ubuntu16.04.1-stable)
 
   (general
     (links 160)
@@ -43,8 +43,8 @@
     (45 Margin user)
     (46 B.CrtYd user)
     (47 F.CrtYd user)
-    (48 B.Fab user)
-    (49 F.Fab user)
+    (48 B.Fab user hide)
+    (49 F.Fab user hide)
   )
 
   (setup
@@ -3121,7 +3121,7 @@
   (gr_text A8 (at 108.73 49.27 90) (layer B.SilkS) (tstamp 579289B1)
     (effects (font (size 0.9 0.9) (thickness 0.2)) (justify mirror))
   )
-  (gr_text "RTC 36KHz" (at 123.53 45.72 90) (layer B.SilkS) (tstamp 579288C4)
+  (gr_text "RTC 32KHz" (at 123.53 45.72 90) (layer B.SilkS) (tstamp 579288C4)
     (effects (font (size 0.5 0.5) (thickness 0.125)) (justify mirror))
   )
   (gr_circle (center 118.73 49.52) (end 118.505 49.52) (layer Dwgs.User) (width 0.05) (tstamp 578865AC))

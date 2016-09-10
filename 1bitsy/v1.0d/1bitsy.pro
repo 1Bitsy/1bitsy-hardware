@@ -1,4 +1,4 @@
-update=Wed 01 Jun 2016 09:56:32 PM PDT
+update=Sun 28 Aug 2016 06:18:31 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=../../lib/pkl;../../lib/stm32
+LibDir=../../lib/pkl;../../lib/stm32;../../lib/1bitsy-hardware-lib/kicad
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -69,13 +79,4 @@ LibName37=pkl_sensor
 LibName38=pkl_tag_connect
 LibName39=pkl_texas
 LibName40=stm32
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName41=1bitsy
