@@ -1,0 +1,131 @@
+Info: Backing up file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\sym-lib-table” to file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\rescue-backup\sym-lib-table-2020-07-31-13-48-10”.
+Info: Backing up file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\1bitsy.sch” to file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\rescue-backup\1bitsy-2020-07-31-13-48-10.sch”.
+Info: Backing up file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\1bitsy.pro” to file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\rescue-backup\1bitsy-2020-07-31-13-48-10.pro”.
+Info: Backing up file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\1bitsy-cache.lib” to file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\rescue-backup\1bitsy-cache-2020-07-31-13-48-10.lib”.
+Info: Backing up file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\1bitsy-rescue.lib” to file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\rescue-backup\1bitsy-rescue-2020-07-31-13-48-10.lib”.
+Info: Backing up file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\1bitsy-rescue.dcm” to file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\1bitsy\v2.0a\rescue-backup\1bitsy-rescue-2020-07-31-13-48-10.dcm”.
+Info: Adding library “pkl_conn”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\pkl\pkl_conn.lib” to project symbol library table.
+Info: Adding library “pkl_device”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\pkl\pkl_device.lib” to project symbol library table.
+Info: Adding library “pkl_ftdi”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\pkl\pkl_ftdi.lib” to project symbol library table.
+Info: Adding library “pkl_logos”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\pkl\pkl_logos.lib” to project symbol library table.
+Info: Adding library “pkl_misc”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\pkl\pkl_misc.lib” to project symbol library table.
+Info: Adding library “pkl_molex”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\pkl\pkl_molex.lib” to project symbol library table.
+Info: Adding library “pkl_power”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\pkl\pkl_power.lib” to project symbol library table.
+Info: Adding library “pkl_sensor”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\pkl\pkl_sensor.lib” to project symbol library table.
+Info: Adding library “pkl_tag_connect”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\pkl\pkl_tag_connect.lib” to project symbol library table.
+Info: Adding library “pkl_texas”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\pkl\pkl_texas.lib” to project symbol library table.
+Info: Adding library “stm32”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\stm32\stm32.lib” to project symbol library table.
+Info: Adding library “1bitsy”, file “C:\Users\jordi\Documents\Git\1bitsy\1bitsy-hardware\lib\1bitsy-hardware-lib\kicad\1bitsy.lib” to project symbol library table.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “+3V3” mapped to symbol library “power”.
+Symbol “pkl_L_Small” mapped to symbol library “pkl_device”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_C” mapped to symbol library “pkl_device”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “pkl_R_Small” mapped to symbol library “pkl_device”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “pkl_R_Small” mapped to symbol library “pkl_device”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “TACT” mapped to symbol library “pkl_misc”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “pkl_R_Small” mapped to symbol library “pkl_device”.
+Symbol “+3V3” mapped to symbol library “power”.
+Symbol “JTAG-10” mapped to symbol library “pkl_conn”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “+3V3” mapped to symbol library “power”.
+Symbol “pkl_USB_OTG” mapped to symbol library “pkl_conn”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “pkl_R_Small” mapped to symbol library “pkl_device”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “pkl_Diode_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_Led_Small” mapped to symbol library “pkl_device”.
+Symbol “+3V3” mapped to symbol library “power”.
+Symbol “1BitSquared” mapped to symbol library “pkl_logos”.
+Symbol “PWR_FLAG” mapped to symbol library “power”.
+Symbol “PWR_FLAG” mapped to symbol library “power”.
+Symbol “PWR_FLAG” mapped to symbol library “power”.
+Symbol “pkl_R_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_C” mapped to symbol library “pkl_device”.
+Symbol “pkl_VREG_5PIN_FIXED” mapped to symbol library “pkl_device”.
+Symbol “pkl_C” mapped to symbol library “pkl_device”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “+3V3” mapped to symbol library “power”.
+Symbol “PWR_FLAG” mapped to symbol library “power”.
+Symbol “STM32F415RGTx” mapped to symbol library “stm32”.
+Symbol “pkl_XTAL_XX” mapped to symbol library “pkl_device”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Symbol “pkl_XTAL_XGXG” mapped to symbol library “pkl_device”.
+Symbol “pkl_C_Small” mapped to symbol library “pkl_device”.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “Jumper” mapped to symbol library “Device”.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Symbol “+3V3” mapped to symbol library “power”.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Symbol “POGO_PAD_SMD” mapped to symbol library “pkl_misc”.
+Symbol “POGO_PAD_SMD” mapped to symbol library “pkl_misc”.
+Symbol “POGO_PAD_SMD” mapped to symbol library “pkl_misc”.
+Symbol “POGO_PAD_SMD” mapped to symbol library “pkl_misc”.
+Symbol “POGO_PAD_SMD” mapped to symbol library “pkl_misc”.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Warning: No symbol “CONN_01X01” found in symbol library table.
+Info: Symbol library table mapping complete!
