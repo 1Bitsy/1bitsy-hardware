@@ -4,14 +4,14 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title "1BitSy"
-Date ""
+Title "1Bitsy"
+Date "2020-08-04"
 Rev "v2.0a"
 Comp "1BitSquared"
-Comment1 "(C) 2016 Piotr Esden-Tempski <piotr@esden.net>"
-Comment2 "(C) 2016 1BitSquared LLC <info@1bitsquared.com>"
-Comment3 "License: CC-BY-SA V4.0"
-Comment4 ""
+Comment1 "© 2016-2020 1BitSquared <info@1bitsquared.com>"
+Comment2 "© 2016 Piotr Esden-Tempski <piotr@esden.net>"
+Comment3 "© 2020 Jordi Pakey-Rodriguez <jordi@0xdec.im>"
+Comment4 "License: CC BY-SA 4.0"
 $EndDescr
 $Comp
 L power:GND #PWR01
@@ -592,13 +592,13 @@ MCU
 $Comp
 L pkl_logos:1BitSquared LOGO1
 U 1 1 574362B8
-P 15350 10200
-F 0 "LOGO1" V 15550 10225 60  0001 C CNN
-F 1 "1BitSquared" H 15350 10025 40  0000 C CNN
-F 2 "pkl_logos:1b2_Logo_SilkS_7.5mm" H 15350 10200 60  0001 C CNN
-F 3 "" H 15350 10200 60  0000 C CNN
-F 4 "ANY" H 15350 10200 60  0001 C CNN "Source"
-	1    15350 10200
+P 15850 10400
+F 0 "LOGO1" V 16050 10425 60  0001 C CNN
+F 1 "1BitSquared" H 15850 10225 40  0001 C CNN
+F 2 "pkl_logos:1b2_Logo_SilkS_7.5mm" H 15850 10400 60  0001 C CNN
+F 3 "" H 15850 10400 60  0000 C CNN
+F 4 "ANY" H 15850 10400 60  0001 C CNN "Source"
+	1    15850 10400
 	1    0    0    -1  
 $EndComp
 $Comp
